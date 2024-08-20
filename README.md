@@ -1,6 +1,6 @@
-These are demos of VBS.
-The former does nothing but make a nuisance of itself.
-If you want to close it, simply go into the task manager and shut "wscript.exe" down.
+These are demos of VBS that I have written myself.
+However, sometimes you may find some of them really annoying (e.g. the file that you had opened is named "DoNotOpen"), don't panic.
+If you want to close the file, simply run the "SOD.bat" file that comes with the vbs file in the repository or simply go into the task manager and shut "wscript.exe" down.
 Have fun!! :)
 
-Disclaimer: I'm not responsible for any damage that might be done to your computer that results either directly or indirectly from the execution of this programme.
+Disclaimer: I'm not responsible for any damage that might be done to your computer that results either directly or indirectly from the execution of these files.
