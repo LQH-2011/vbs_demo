@@ -1,4 +1,4 @@
-These are demos of VBS that I have written myself.
+These are demos of VBS that I have written myself, including their binaries.
 However, sometimes you may find some of them really annoying (e.g. the file that you had opened is named "DoNotOpen"), don't panic.
 If you want to close the file, simply run the "SOD.bat" file that comes with the vbs file in the repository or simply go into the task manager and shut "wscript.exe" down.
 Have fun!! :)
